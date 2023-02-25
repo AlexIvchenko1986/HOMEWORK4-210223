@@ -1,0 +1,15 @@
+C:\Users\Alexander Ivchenko\Desktop\ОБУЧЕНИЕ GEEKBRAINS\СЕММИНАРЫ\III. ЯЗЫКИ ПРОГРАММИРОВАНИЯ\ДЗ\LESSON4 210223\TASK25\bin\Debug\net6.0\TASK25.exe
+C:\Users\Alexander Ivchenko\Desktop\ОБУЧЕНИЕ GEEKBRAINS\СЕММИНАРЫ\III. ЯЗЫКИ ПРОГРАММИРОВАНИЯ\ДЗ\LESSON4 210223\TASK25\bin\Debug\net6.0\TASK25.deps.json
+C:\Users\Alexander Ivchenko\Desktop\ОБУЧЕНИЕ GEEKBRAINS\СЕММИНАРЫ\III. ЯЗЫКИ ПРОГРАММИРОВАНИЯ\ДЗ\LESSON4 210223\TASK25\bin\Debug\net6.0\TASK25.runtimeconfig.json
+C:\Users\Alexander Ivchenko\Desktop\ОБУЧЕНИЕ GEEKBRAINS\СЕММИНАРЫ\III. ЯЗЫКИ ПРОГРАММИРОВАНИЯ\ДЗ\LESSON4 210223\TASK25\bin\Debug\net6.0\TASK25.dll
+C:\Users\Alexander Ivchenko\Desktop\ОБУЧЕНИЕ GEEKBRAINS\СЕММИНАРЫ\III. ЯЗЫКИ ПРОГРАММИРОВАНИЯ\ДЗ\LESSON4 210223\TASK25\bin\Debug\net6.0\TASK25.pdb
+C:\Users\Alexander Ivchenko\Desktop\ОБУЧЕНИЕ GEEKBRAINS\СЕММИНАРЫ\III. ЯЗЫКИ ПРОГРАММИРОВАНИЯ\ДЗ\LESSON4 210223\TASK25\obj\Debug\net6.0\TASK25.csproj.AssemblyReference.cache
+C:\Users\Alexander Ivchenko\Desktop\ОБУЧЕНИЕ GEEKBRAINS\СЕММИНАРЫ\III. ЯЗЫКИ ПРОГРАММИРОВАНИЯ\ДЗ\LESSON4 210223\TASK25\obj\Debug\net6.0\TASK25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander Ivchenko\Desktop\ОБУЧЕНИЕ GEEKBRAINS\СЕММИНАРЫ\III. ЯЗЫКИ ПРОГРАММИРОВАНИЯ\ДЗ\LESSON4 210223\TASK25\obj\Debug\net6.0\TASK25.AssemblyInfoInputs.cache
+C:\Users\Alexander Ivchenko\Desktop\ОБУЧЕНИЕ GEEKBRAINS\СЕММИНАРЫ\III. ЯЗЫКИ ПРОГРАММИРОВАНИЯ\ДЗ\LESSON4 210223\TASK25\obj\Debug\net6.0\TASK25.AssemblyInfo.cs
+C:\Users\Alexander Ivchenko\Desktop\ОБУЧЕНИЕ GEEKBRAINS\СЕММИНАРЫ\III. ЯЗЫКИ ПРОГРАММИРОВАНИЯ\ДЗ\LESSON4 210223\TASK25\obj\Debug\net6.0\TASK25.csproj.CoreCompileInputs.cache
+C:\Users\Alexander Ivchenko\Desktop\ОБУЧЕНИЕ GEEKBRAINS\СЕММИНАРЫ\III. ЯЗЫКИ ПРОГРАММИРОВАНИЯ\ДЗ\LESSON4 210223\TASK25\obj\Debug\net6.0\TASK25.dll
+C:\Users\Alexander Ivchenko\Desktop\ОБУЧЕНИЕ GEEKBRAINS\СЕММИНАРЫ\III. ЯЗЫКИ ПРОГРАММИРОВАНИЯ\ДЗ\LESSON4 210223\TASK25\obj\Debug\net6.0\refint\TASK25.dll
+C:\Users\Alexander Ivchenko\Desktop\ОБУЧЕНИЕ GEEKBRAINS\СЕММИНАРЫ\III. ЯЗЫКИ ПРОГРАММИРОВАНИЯ\ДЗ\LESSON4 210223\TASK25\obj\Debug\net6.0\TASK25.pdb
+C:\Users\Alexander Ivchenko\Desktop\ОБУЧЕНИЕ GEEKBRAINS\СЕММИНАРЫ\III. ЯЗЫКИ ПРОГРАММИРОВАНИЯ\ДЗ\LESSON4 210223\TASK25\obj\Debug\net6.0\TASK25.genruntimeconfig.cache
+C:\Users\Alexander Ivchenko\Desktop\ОБУЧЕНИЕ GEEKBRAINS\СЕММИНАРЫ\III. ЯЗЫКИ ПРОГРАММИРОВАНИЯ\ДЗ\LESSON4 210223\TASK25\obj\Debug\net6.0\ref\TASK25.dll
